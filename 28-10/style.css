@@ -1,0 +1,19 @@
+
+*{
+    background-color: rgba(74, 13, 155, 0.5);
+}
+
+.souDiv{
+    height: 100%;
+    width: 100%;
+    background-color: orange;
+}
+#sou.Div{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+}
+
+p.souDivClass{
+    font-size: medium;
+}
